@@ -398,6 +398,15 @@ h1{
 
 /*   популярные товары    */
 
+.fade-up h1 {
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 900;
+    font-size: 56px;
+    color: #B53325;
+    margin: 0;
+    margin-left: 128px;
+}
+
 .popular {
     margin: 80px 328px 104px 328px;
 }
